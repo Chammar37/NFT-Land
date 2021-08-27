@@ -6,3 +6,5 @@ React
 CSS
 MetaMask API
 Pinata Keys
+
+NFT Gas Fees: https://postergrind.com/nft-gas-fees-how-not-to-get-ripped-off/
